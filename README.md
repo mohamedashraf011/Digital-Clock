@@ -6,7 +6,7 @@ Built using **HTML**, **CSS**, and **JavaScript**, this project updates automati
 🔗 **Live Demo:** [Click Here](https://mohamedashraf011.github.io/Digital-Clock/)
 
 
-## 🧰 Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |-------------|----------|
